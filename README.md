@@ -32,8 +32,8 @@ After the data was combined, we converted the following features to percentiles:
 * "Median Income"
 
 We next calculated a weighted sum of these percentiles using the following weights:  
-* `weight_foot_traffic = 0.5`
-* `weight_STEM_women = 0.3`
+* `weight_foot_traffic = 0.4`
+* `weight_STEM_women = 0.4`
 * `weight_income = 0.2`
 
 The attached presentation contains our recommended stations to visit in the morning and evening based on this weighted sum.
