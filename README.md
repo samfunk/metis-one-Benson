@@ -41,4 +41,7 @@ We next calculated a weighted sum of these percentiles using the following weigh
 * `weight_STEM_women = 0.4`
 * `weight_income = 0.2`
 
-The attached presentation contains our recommended stations to visit in the morning and evening based on this weighted sum.
+### Report
+You can see each of our reports on this project in each of our portfolios:  
+* Sam Funk
+* [Joe Gambino](https://www.gam.bingo/mta-analysis/)
