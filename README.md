@@ -1,5 +1,10 @@
 ## Project Benson: Optimizing the effectiveness of WTWY's street teams.  
 
+Metis Data Science Bootcamp  
+Sam Funk  
+Joe Gambino  
+September 2017  
+
 ### Overview  
 WomenTechWomenYes (WTWY) has an annual gala at the beginning of the summer. Beforehand, they send out street teams to pass out flyers for the event and collect email signups. WTWY wants to optimize their street teams so that they can get the most email signups. Ideally, the email signups will convert at a high rate to gala attendees, and among attendees, many will make contributions to WTWY.
 
